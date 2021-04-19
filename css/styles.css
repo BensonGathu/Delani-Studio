@@ -1,0 +1,82 @@
+
+#welcome {
+    background-image: url("../img/h_img.jpg");
+    background-size: cover;
+    color: white;
+}
+
+.details {
+    padding-top: 15%;
+    padding-bottom: 5%;
+}
+body {
+    text-align: center;
+}
+#about-us{
+    background-color: white;
+}
+
+#services {
+    background-image: url("../img/s_image.jpg");
+    background-size: cover;
+    color: white;
+}
+.service_det {
+    padding-top: 5%;
+    padding-bottom: 2%;
+}
+#dt {
+    display: none;
+}
+#devt{
+    display: none;
+}
+#pt{
+    display: none;
+}
+
+#portfolio img{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
+/* #portfolio img:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+  } */
+
+  #contact-us {
+      background-image: url("../img/c_image.jpg");
+      background-size: cover;
+      color: white;
+  }
+.contact-det {
+    padding-top: 5%;
+    padding-bottom: 3%;
+}
+
+ p {
+     font-family: 'Rubik', sans-serif;
+    }
+
+h4 {
+    font-family: 'Anton', sans-serif;
+}
+.transparent{
+    padding: 2%;
+    background-color: transparent;
+    opacity: 0.5;
+    margin-top: 1.5%;
+    
+}
+
+.folio{
+    text-align: center;
+    margin-top: 1.8%;
+    width: 100%;
+    height: auto;
+}
+.folios{
+    margin-top: 1.5%;
+    text-align: center;
+}
